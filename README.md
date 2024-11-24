@@ -7,30 +7,23 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=IMAD+ALI+WHATSAPP+BOT+MD+V2" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="[https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github](https://whatsapp.com/channel/0029Vaq4PRsD38CJKXzwmb42)"></a>
+<a href="#"><img title="LOGO DESIGNER" src="https://whatsapp.com/channel/0029Vaq4PRsD38CJKXzwmb42"></a>
 
-<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+<a href = ""><img alt="IMAD ALI DIR" src="https://youtube.com/shorts/7MDYsRy0Mjw?si=n_2npG8VJHdeSvs3" target="_blank" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/QUEEN_ANJU_MD?color=white&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN_ANJU_MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN_ANJU_MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN_ANJU_MD?style=flat-square&color=darkred"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
-
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+IMAD ALI is a whatsapp bot created by IMAD ALI DIR using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
+And Subscribe IMAD ALO and give one star for me.
 </br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For Imad Ali [Follow Me](https://github.com/Imadalidir-YT) 
 
-## How create queen Anju.
+## How create Imad Ali.
 
 **. Deploy steps.*
- - 1._Fork queen Anju repository._
+ - 1._Fork repository._
     <br>
     <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
